@@ -1,2 +1,2 @@
-# enyata-css-and-html-assignment
+# enyata-css assignment
 to be submitted
